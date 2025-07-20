@@ -1,5 +1,5 @@
 from envs.blackjack_env import BlackjackEnv
-from agents.llm_agent import LLMBlackjackAgent
+from agents.llama_agent import LLMBlackjackAgent
 from utils.logger import log
 import time
 
